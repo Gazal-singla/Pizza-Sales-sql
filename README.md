@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is my first hands-on SQL case study based on a Pizza Sales dataset.  
+- This project is my first hands-on SQL case study based on a Pizza Sales dataset.  
 I wrote SQL queries to answer 13 business-related questions and shared the results visually through a presentation.
 This project helped me practice **joins, aggregations, sorting, filtering, and window functions** — all while thinking from a business point of view.
 ---
